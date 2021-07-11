@@ -24,6 +24,8 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
+          cache: 'npm'
       - run: npm install
       - run: npm run build
+      - run: git remote set-url origin https://git:${{ secrets.GITHUB_TOKEN }}@github.com/${{github.repository}}.git
       - run: npm run deploy
