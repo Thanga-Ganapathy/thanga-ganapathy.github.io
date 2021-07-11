@@ -1,7 +1,8 @@
 function App() {
   return (
     <div>
-      👋 Hi, I’m @Thanga-Ganapathy, Website WIP, Please check back later
+      <p>👋 Hi, I’m @Thanga-Ganapathy</p>
+      <p>Website WIP, Please check back later.</p>
     </div>
   );
 }
