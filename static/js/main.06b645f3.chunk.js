@@ -1,0 +1,2 @@
+(this["webpackJsonpthanga-ganapathy.github.io"]=this["webpackJsonpthanga-ganapathy.github.io"]||[]).push([[0],{9:function(t,e,a){"use strict";a.r(e);var n=a(1),c=a.n(n),i=a(3),h=a.n(i),r=a(0);var s=function(){return Object(r.jsxs)("div",{children:[Object(r.jsx)("p",{children:"\ud83d\udc4b Hi, I\u2019m @Thanga-Ganapathy"}),Object(r.jsx)("p",{children:"Website WIP, Please check back later."})]})};h.a.render(Object(r.jsx)(c.a.StrictMode,{children:Object(r.jsx)(s,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.06b645f3.chunk.js.map
